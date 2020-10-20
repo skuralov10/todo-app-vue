@@ -1,13 +1,14 @@
 {
-  "name": "todo-app-vladilen-mytest",
+  "name": "todo-app-vue",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "normalize.css": "^8.0.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },

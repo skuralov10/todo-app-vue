@@ -1,4 +1,4 @@
-# todo-app-vladilen-mytest
+# todo-app-vue
 
 ## Project setup
 ```
